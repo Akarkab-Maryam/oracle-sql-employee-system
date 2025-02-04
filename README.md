@@ -55,4 +55,8 @@ Créer des procédures stockées en PL/SQL pour gérer les ajouts/modifications/
 Générer un rapport des employés en format PDF.
 
 
+télécharger l'installation oracle depuis ce lien :
+
+https://drive.google.com/file/d/1QcxM6nXVsWoV8tXHhGTDuEZymEBNFgom/view?usp=sharing
+
 
